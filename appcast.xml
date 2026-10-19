@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Shipdeck</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 19 Oct 2026 18:45:34 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Shipdeck 0.3.0</h2>
+<ul>
+  <li><b>In-app updates.</b> Shipdeck checks for new versions once a day and offers to install them. You can also choose <i>Check for Updates…</i> in the app menu or the menu bar item. Updates are signed, and Shipdeck verifies them before installing.</li>
+  <li><b>Icons from Icon Composer.</b> Products whose app icon is an Icon Composer document (<code>AppIcon.icon</code>, the Liquid Glass format) now show it, Shipdeck included. With Xcode installed it renders with the glass effects; without Xcode Shipdeck builds a flat version.</li>
+</ul>
+<p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
+]]></description>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.3.0/Shipdeck-0.3.0.zip" length="6537255" type="application/octet-stream" sparkle:edSignature="lQSKpvfDuxLuULorgA9gdUqiiwL37imSqjPBns69p+G4UEZoO4ic98HcvfwRDymQwXSOpefEKYhSnWgyPAP3Cg=="/>
+        </item>
+    </channel>
+</rss>
