@@ -3,12 +3,18 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.4.4</title>
-            <pubDate>Tue, 20 Oct 2026 14:16:04 +0700</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <title>0.4.5</title>
+            <pubDate>Tue, 20 Oct 2026 14:45:54 +0700</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="9">
+<h2>Shipdeck 0.4.5</h2>
+<ul>
+  <li><b>Adding an App Store Connect key works.</b> Settings › Accounts › Add Key… shows the Name, private key, Key ID, Issuer ID and Role fields again, instead of only the instructions.</li>
+</ul>
+</div>
 <div data-sparkle-version="8">
 <h2>Shipdeck 0.4.4</h2>
 <ul>
@@ -54,7 +60,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.4.4/Shipdeck-0.4.4.zip" length="9033074" type="application/octet-stream" sparkle:edSignature="jKS2Kjd5ThCEsZ+pE1oxq6mQzLZ7L1XObULEZuzqzJRBMo/AscDDYIp7TEHenWj3TQVGnbG2c9CG8r4rhdQAAg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.4.5/Shipdeck-0.4.5.zip" length="9034432" type="application/octet-stream" sparkle:edSignature="Fr2XaKdRNBWH8Hgt8hpvUQBhOufbrAYKIVm5r8SNU4gJoaedYPfeQG3KqXmvQ/6pdtQwsD+hiVSueKvgHnpDCw=="/>
         </item>
     </channel>
 </rss>
