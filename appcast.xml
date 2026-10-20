@@ -3,12 +3,20 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.5.0</title>
-            <pubDate>Tue, 20 Oct 2026 16:20:28 +0700</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <title>0.6.0</title>
+            <pubDate>Tue, 20 Oct 2026 16:36:42 +0700</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="11">
+<h2>Shipdeck 0.6.0</h2>
+<ul>
+  <li><b>Approve what agents do on the App Store.</b> When a Claude session wants to reply to a review, pause, resume or finish a phased release, or release a version, the request appears at the top of the window with the details (for a reply, the review and the full text), on the menu bar and as a notification. Choose Allow Once, Deny (with a reason the agent reads), or Always Allow in the product.</li>
+  <li><b>Always Allow stays small.</b> It only covers changes that can be taken back, such as review replies and pausing a phased release, and only in that product. Releases ask every time. Settings › Agents lists what you allowed and lets you take it back.</li>
+  <li>Activity shows which actions you approved. A request nobody answers is withdrawn after 10 minutes, or when its session closes.</li>
+</ul>
+</div>
 <div data-sparkle-version="10">
 <h2>Shipdeck 0.5.0</h2>
 <ul>
@@ -69,7 +77,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.5.0/Shipdeck-0.5.0.zip" length="9679787" type="application/octet-stream" sparkle:edSignature="LoVrzi8q+kEvuu1rMFhbzaDNKOAWTAjNwLTV7vLNLHMf7Cmz3nYHkDqymJO0+84pcaNMhAS5efpCcg480m2lDg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.0/Shipdeck-0.6.0.zip" length="9906067" type="application/octet-stream" sparkle:edSignature="7kezllgGG4npx0Z9d5Ngdp5/nPFyUtwc56LVo9p4a6geV+zo4GQ3kQrUcfA5sS5WBZb9PjWfHfn9G6kQvJwABg=="/>
         </item>
     </channel>
 </rss>
