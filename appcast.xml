@@ -3,12 +3,21 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.6.0</title>
-            <pubDate>Tue, 20 Oct 2026 16:36:42 +0700</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <title>0.6.1</title>
+            <pubDate>Tue, 20 Oct 2026 17:25:31 +0700</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="12">
+<h2>Shipdeck 0.6.1</h2>
+<ul>
+  <li><b>Sync with Code.</b> When a product's details fall behind its repos, choose Sync with Code… (on the product's page, in the "May Be Out of Date" notice, or by right-clicking it in the sidebar). Claude re-reads the repos, starting from what Shipdeck has and what changed since the last survey, and changes no files.</li>
+  <li><b>You choose what to keep.</b> Each change shows the old and new value and where Claude found it. Tick the ones to keep and save, or choose Edit Before Saving… to change anything else first. Things Claude no longer finds start unticked, and nothing is saved until you decide.</li>
+  <li><b>Agents ask before editing a product's details.</b> When a Claude session wants to change a product's description, components, services or docs, the request lists each change and waits for you.</li>
+  <li>The line at the bottom of a product's page now reads "Auto-checked at…": Shipdeck checks git, versions and store listings on its own, without AI.</li>
+</ul>
+</div>
 <div data-sparkle-version="11">
 <h2>Shipdeck 0.6.0</h2>
 <ul>
@@ -77,7 +86,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.0/Shipdeck-0.6.0.zip" length="9906067" type="application/octet-stream" sparkle:edSignature="7kezllgGG4npx0Z9d5Ngdp5/nPFyUtwc56LVo9p4a6geV+zo4GQ3kQrUcfA5sS5WBZb9PjWfHfn9G6kQvJwABg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.1/Shipdeck-0.6.1.zip" length="10206106" type="application/octet-stream" sparkle:edSignature="n6Lhum1zhZfvOuWCNllVKDafXk6I2Fk4pSk+ZpgqzQhS+aOBsBGGjlXKiXvHkFN++XVKnxU+BMYUS/rHmAhsCg=="/>
         </item>
     </channel>
 </rss>
