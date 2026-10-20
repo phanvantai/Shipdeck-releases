@@ -3,12 +3,21 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.6.1</title>
-            <pubDate>Tue, 20 Oct 2026 17:25:31 +0700</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <title>0.6.2</title>
+            <pubDate>Tue, 20 Oct 2026 18:27:55 +0700</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="13">
+<h2>Shipdeck 0.6.2</h2>
+<ul>
+  <li><b>Clearer first run.</b> If Claude Code is too old for Shipdeck, the welcome screen says so and shows the command to update it. If Apple's Command Line Tools (git) are missing, it offers to install them instead of letting macOS ask again and again.</li>
+  <li><b>A survey that fails says why.</b> The error now includes what Claude Code reported.</li>
+  <li>A login shell that never answers no longer leaves the Claude Code check spinning: it gives up after 20 seconds and says what to look at.</li>
+  <li><b>Help › Send Feedback…</b> opens a feedback form with your Shipdeck and macOS versions filled in. The welcome screen says where your data goes.</li>
+</ul>
+</div>
 <div data-sparkle-version="12">
 <h2>Shipdeck 0.6.1</h2>
 <ul>
@@ -86,7 +95,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.1/Shipdeck-0.6.1.zip" length="10206106" type="application/octet-stream" sparkle:edSignature="n6Lhum1zhZfvOuWCNllVKDafXk6I2Fk4pSk+ZpgqzQhS+aOBsBGGjlXKiXvHkFN++XVKnxU+BMYUS/rHmAhsCg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.2/Shipdeck-0.6.2.zip" length="10273674" type="application/octet-stream" sparkle:edSignature="vBImEiZiqfXOC4++m0KIBZE85/nmn3lMmpztUue5yfKDylXb5sivVmQvZ5EhtWt4h7fpwBniOXvuTiBI7ySGBg=="/>
         </item>
     </channel>
 </rss>
