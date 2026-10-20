@@ -15,7 +15,8 @@ unzip it and move `Shipdeck.app` to Applications. The app is signed and notarize
 
 - macOS 15 or later.
 - [Claude Code](https://claude.ai/code), installed and signed in (`claude` in Terminal). Shipdeck uses it to
-  read your repos.
+  read your repos and runs it in its sessions. It works with Claude Code only for now: other coding agents
+  (Codex, Gemini CLI, Cursor) aren't supported yet.
 - Apple's Command Line Tools for git. Most developers have them through Xcode; if not, Shipdeck offers to
   install them.
 - Optional: an App Store Connect API key, to see versions, TestFlight and reviews of your iOS apps.
