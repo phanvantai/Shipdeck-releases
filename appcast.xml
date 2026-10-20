@@ -3,12 +3,18 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.4.3</title>
-            <pubDate>Tue, 20 Oct 2026 12:10:05 +0700</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <title>0.4.4</title>
+            <pubDate>Tue, 20 Oct 2026 14:16:04 +0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="8">
+<h2>Shipdeck 0.4.4</h2>
+<ul>
+  <li><b>Tabs fit again.</b> Switching from a product with two tabs to one with an App Store tab no longer leaves the Overview, App Store and Sessions tabs cut off in the toolbar.</li>
+</ul>
+</div>
 <div data-sparkle-version="7">
 <h2>Shipdeck 0.4.3</h2>
 <ul>
@@ -48,7 +54,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.4.3/Shipdeck-0.4.3.zip" length="9030960" type="application/octet-stream" sparkle:edSignature="4WF2TqP36SkILCZRW8PxFcHLeC1qsf0OOvSepThJlWpzaPGtHayxuQ3/k81pAtIrXr5Tr3/bzv6Oxad04t52BQ=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.4.4/Shipdeck-0.4.4.zip" length="9033074" type="application/octet-stream" sparkle:edSignature="jKS2Kjd5ThCEsZ+pE1oxq6mQzLZ7L1XObULEZuzqzJRBMo/AscDDYIp7TEHenWj3TQVGnbG2c9CG8r4rhdQAAg=="/>
         </item>
     </channel>
 </rss>
