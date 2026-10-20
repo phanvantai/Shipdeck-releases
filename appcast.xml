@@ -3,17 +3,44 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.4.1</title>
-            <pubDate>Tue, 20 Oct 2026 10:30:13 +0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <title>0.4.2</title>
+            <pubDate>Tue, 20 Oct 2026 11:32:37 +0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.4.1</h2>
+            <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="6">
+<h2>Shipdeck 0.4.2</h2>
+<ul>
+  <li><b>Every change since your version.</b> When you skip a few updates, the update window now lists what's new in each version since the one you have, not just the newest.</li>
+</ul>
+</div>
+<div data-sparkle-version="5">
+<h2>Shipdeck 0.4.1</h2>
 <ul>
   <li><b>Maintenance release.</b> Nothing changes in the app. This version checks that updates keep arriving after the release process was made more reliable.</li>
 </ul>
+</div>
+<div data-sparkle-version="4">
+<h2>Shipdeck 0.4.0</h2>
+<ul>
+  <li><b>App Store Connect in each product.</b> Products with an iOS app get an <i>App Store</i> tab: where the next version is in App Review, the live version and its phased release, TestFlight builds, groups and tester feedback, and customer reviews with Apple's summary. A product can have several iOS apps; pick one at the top of the tab.</li>
+  <li><b>Release and reply from Shipdeck.</b> Release an approved version, pause, resume or finish a phased release, and reply to reviews. Each action asks you to confirm first.</li>
+  <li><b>Accounts.</b> Add an App Store Connect team key in <i>Settings › Accounts</i>. Its private key is stored in your login keychain. Each product links to one account, and its apps are matched by bundle ID.</li>
+  <li><b>More in Needs Attention.</b> The overview now shows rejected versions, versions waiting for you to release, paused phased releases, failed builds, unanswered reviews and new TestFlight crashes.</li>
+  <li><b>Fixes.</b> Closing a terminal whose shell ignores the hangup now ends it after 5 seconds (it took about 12). Saving a product no longer keeps an empty store entry.</li>
+</ul>
+</div>
+<div data-sparkle-version="3">
+<h2>Shipdeck 0.3.0</h2>
+<ul>
+  <li><b>In-app updates.</b> Shipdeck checks for new versions once a day and offers to install them. You can also choose <i>Check for Updates…</i> in the app menu or the menu bar item. Updates are signed, and Shipdeck verifies them before installing.</li>
+  <li><b>Icons from Icon Composer.</b> Products whose app icon is an Icon Composer document (<code>AppIcon.icon</code>, the Liquid Glass format) now show it, Shipdeck included. With Xcode installed it renders with the glass effects; without Xcode Shipdeck builds a flat version.</li>
+</ul>
+<p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
+</div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.4.1/Shipdeck-0.4.1.zip" length="8991516" type="application/octet-stream" sparkle:edSignature="lrpUAjAtAw54+LykIaiUXW5ipHQt8a9wA4NNUuKbUFBOOxb6oknWkq1L3i0kPTFNcUGLUT1KKjGQSvLBHNiMDQ=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.4.2/Shipdeck-0.4.2.zip" length="8991496" type="application/octet-stream" sparkle:edSignature="bjFO/Wz6e6hw+1MOBCH9lnO/RvleLpZVxPz0JfBSkXYslJUOLSNGh9Jbv8fPb2BoMFLy8z3X+fwASfYE2J/RBQ=="/>
         </item>
     </channel>
 </rss>
