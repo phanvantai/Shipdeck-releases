@@ -3,12 +3,20 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.4.2</title>
-            <pubDate>Tue, 20 Oct 2026 11:32:37 +0700</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <title>0.4.3</title>
+            <pubDate>Tue, 20 Oct 2026 12:10:05 +0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="7">
+<h2>Shipdeck 0.4.3</h2>
+<ul>
+  <li><b>Everything on the Overview.</b> The product info panel is gone: its description, out-of-date notice, repos, services, docs and links now sit on the product's Overview, so the terminal gets the full width in Sessions.</li>
+  <li><b>Change the status in place.</b> Click the status badge next to the product's name to mark it Released, Maintenance or anything else, without opening Edit Details.</li>
+  <li><b>Live versions of Mac apps.</b> Mac apps that update through Sparkle now show their live version and its date, read from the app's appcast, with a link to its releases. Unreleased commits count from that version.</li>
+</ul>
+</div>
 <div data-sparkle-version="6">
 <h2>Shipdeck 0.4.2</h2>
 <ul>
@@ -40,7 +48,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.4.2/Shipdeck-0.4.2.zip" length="8991496" type="application/octet-stream" sparkle:edSignature="bjFO/Wz6e6hw+1MOBCH9lnO/RvleLpZVxPz0JfBSkXYslJUOLSNGh9Jbv8fPb2BoMFLy8z3X+fwASfYE2J/RBQ=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.4.3/Shipdeck-0.4.3.zip" length="9030960" type="application/octet-stream" sparkle:edSignature="4WF2TqP36SkILCZRW8PxFcHLeC1qsf0OOvSepThJlWpzaPGtHayxuQ3/k81pAtIrXr5Tr3/bzv6Oxad04t52BQ=="/>
         </item>
     </channel>
 </rss>
