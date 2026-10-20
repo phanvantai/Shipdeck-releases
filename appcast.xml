@@ -3,12 +3,21 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.4.5</title>
-            <pubDate>Tue, 20 Oct 2026 14:45:54 +0700</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+            <title>0.5.0</title>
+            <pubDate>Tue, 20 Oct 2026 16:20:28 +0700</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="10">
+<h2>Shipdeck 0.5.0</h2>
+<ul>
+  <li><b>Claude sessions can work with Shipdeck.</b> Each Claude session now starts with Shipdeck's tools (an MCP server), and every session has a <code>shipdeck</code> command. An agent can read its product, what needs attention, unreleased commits and the App Store Connect status (versions, builds, TestFlight, reviews), change the product's status and open or close sessions.</li>
+  <li><b>Each session stays in its own product.</b> A session can only read and change the product it belongs to, and only that product's App Store Connect apps, even when other apps share the same account. Adding keys, linking apps and removing products stay with you.</li>
+  <li><b>Anything that reaches Apple needs you.</b> Releasing, phased releases and review replies are refused for agents until Shipdeck can ask for your approval, which comes next.</li>
+  <li><b>Activity.</b> The product page lists what you and its sessions changed, including refused attempts and why.</li>
+</ul>
+</div>
 <div data-sparkle-version="9">
 <h2>Shipdeck 0.4.5</h2>
 <ul>
@@ -60,7 +69,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.4.5/Shipdeck-0.4.5.zip" length="9034432" type="application/octet-stream" sparkle:edSignature="Fr2XaKdRNBWH8Hgt8hpvUQBhOufbrAYKIVm5r8SNU4gJoaedYPfeQG3KqXmvQ/6pdtQwsD+hiVSueKvgHnpDCw=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.5.0/Shipdeck-0.5.0.zip" length="9679787" type="application/octet-stream" sparkle:edSignature="LoVrzi8q+kEvuu1rMFhbzaDNKOAWTAjNwLTV7vLNLHMf7Cmz3nYHkDqymJO0+84pcaNMhAS5efpCcg480m2lDg=="/>
         </item>
     </channel>
 </rss>
