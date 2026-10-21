@@ -3,12 +3,22 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.6.6</title>
-            <pubDate>Wed, 21 Oct 2026 13:37:25 +0700</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
+            <title>0.6.7</title>
+            <pubDate>Wed, 21 Oct 2026 14:59:37 +0700</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="18">
+<h2>Shipdeck 0.6.7</h2>
+<ul>
+  <li><b>Is the site really live?</b> Shipdeck now opens the production URL of every website, web app and backend every 30 minutes, no account needed. It tells a working site ("Live · Vercel") from a domain that forwards to another site, doesn't resolve or answers with an error, and reads the HTTPS certificate, the page's title, description, share image and icon, and an optional Health Check URL.</li>
+  <li><b>Every product's links are checked.</b> The landing page, privacy policy, terms of use (a new link field) and support pages are opened too. For a released app, a broken link or a site that stops answering goes into a new red group, <i>Something's Wrong</i>. Before release, the Roadmap's checklist reports it instead.</li>
+  <li><b>Fix with Claude.</b> Each of these problems, in the Overview and in the release checklist, has a button that opens a Claude session told what Shipdeck saw. Claude fixes what lives in the repo and gives you the exact steps for DNS and hosting dashboards.</li>
+  <li><b>A Web block in the release checklist</b> for products with a website or web app: production URL, domain, HTTPS, page details, health check, privacy page and live. New checks now join checklists you laid out before, without starting over; ones you removed stay removed.</li>
+  <li><b>New folders aren't missed.</b> A folder that isn't committed yet (like a new landing page) now marks the product's info as out of date, and Sync with Code shows it to Claude.</li>
+</ul>
+</div>
 <div data-sparkle-version="17">
 <h2>Shipdeck 0.6.6</h2>
 <ul>
@@ -123,7 +133,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.6/Shipdeck-0.6.6.zip" length="11383187" type="application/octet-stream" sparkle:edSignature="pw1+O0/E9mztukEur4sbFsAEZZhJ9dgo8BLte29We2XXxLrf1N+4BsuKg5joz1eqXjb4X1KxA45EjO9PJmouAQ=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.7/Shipdeck-0.6.7.zip" length="11638163" type="application/octet-stream" sparkle:edSignature="WAvlGpyfjcAOSyxDlly92aQMNc9/IQiQPltWVHSZj5QgOVuyI7IOI48pNLB+zzgwJnnW52sSuUr8/jhi8mABBg=="/>
         </item>
     </channel>
 </rss>
