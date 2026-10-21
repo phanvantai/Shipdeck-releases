@@ -4,16 +4,17 @@
         <title>Shipdeck</title>
         <item>
             <title>0.7.3</title>
-            <pubDate>Wed, 21 Oct 2026 22:16:07 +0700</pubDate>
+            <pubDate>Wed, 21 Oct 2026 23:52:31 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>24</sparkle:version>
+            <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.7.3 beta (24)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.7.3 beta (25)</h2><ul>
+<li>App Store Connect phase 2: TestFlight, store listing, screenshots, pricing, IAPs, sales</li>
 <li>Release checklist: Work with Claude on every open item</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.3-beta.24/Shipdeck-0.7.3.zip" length="12159184" type="application/octet-stream" sparkle:edSignature="cGtdW/qlgSMeW306fbAnNoN99lfYtPw+P6Q2xhY/Nz5oXdMYIX4X1hLak2aMDSqB731M2wcXZVNUcnAGSe4ZBQ=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.3-beta.25/Shipdeck-0.7.3.zip" length="15093079" type="application/octet-stream" sparkle:edSignature="dutY6U76/YIQOY8bj8NX9MOYYsara04J7dkYO1CcLFpkKgN/QZM9uHzaFp98YbdMieVjvaAWCUtF6NKM3htRAQ=="/>
         </item>
         <item>
             <title>0.7.2</title>
