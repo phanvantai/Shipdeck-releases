@@ -3,12 +3,19 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.7.0</title>
-            <pubDate>Wed, 21 Oct 2026 17:38:53 +0700</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <title>0.7.1</title>
+            <pubDate>Wed, 21 Oct 2026 21:12:02 +0700</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="22">
+<h2>Shipdeck 0.7.1</h2>
+<ul>
+  <li><b>See what is left before a release.</b> When an app's repo is ahead of the store, the Roadmap tab starts with that version's checklist. It lists Shipdeck's steps that aren't on it yet (Add Them in one click), shows the next step with the button that does it, and the todos planned for that version.</li>
+  <li><b>Work on roadmap items with Claude.</b> Every todo, and every checklist item Claude can do in the repo, has Work with Claude…. Choose Select to pick several todos and work on them in one session. Claude reads the code and agrees a plan with you before changing anything, and asks you to approve marking each item done.</li>
+</ul>
+</div>
 <div data-sparkle-version="21">
 <h2>Shipdeck 0.7.0</h2>
 <ul>
@@ -158,7 +165,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.0/Shipdeck-0.7.0.zip" length="12053216" type="application/octet-stream" sparkle:edSignature="W3Vo7pXNs8nKUUsrWU6b52s+hkWtR0Jag8kjuGyYnXfFzY8pJHqyMBCXpOjiPXUrk6MWX0PrmlHySnA74KBuCA=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.1/Shipdeck-0.7.1.zip" length="12153705" type="application/octet-stream" sparkle:edSignature="bia2raHRahjzYL4nFkFFceo9mka/y5hOKh43zt1R1LZMX7jYS4l/uyxrN0/Bf6LpMExN+vn7Bt2EDA5znqGBDg=="/>
         </item>
     </channel>
 </rss>
