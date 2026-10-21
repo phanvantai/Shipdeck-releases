@@ -3,12 +3,20 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.6.2</title>
-            <pubDate>Tue, 20 Oct 2026 18:27:55 +0700</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+            <title>0.6.3</title>
+            <pubDate>Wed, 21 Oct 2026 09:46:14 +0700</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="14">
+<h2>Shipdeck 0.6.3</h2>
+<ul>
+  <li><b>A Roadmap tab for every product.</b> It follows the product's status. For an idea, it lists the specs in your repos (<code>docs/specs/</code>, <code>PRD.md</code>…) with their status, and <b>Brainstorm with Claude…</b> works one out with you and saves it there. In development, it shows a release checklist: <b>Add Standard Checks</b> adds the usual steps (commit, push, version, TestFlight build, screenshots, store text, privacy…) and Shipdeck ticks the ones it can check itself. Once released, it lists todos grouped by the version they're planned for.</li>
+  <li><b>Suggest with Claude…</b> asks Claude to read the code and propose checklist items or todos. Like every change an agent makes to the roadmap, they wait for your approval.</li>
+  <li><b>Claude's input stays in view.</b> Claude sessions use Claude Code's full-screen mode, so the input stays at the bottom while you scroll back. Hold Shift to select text. You can turn it off in Settings › General.</li>
+</ul>
+</div>
 <div data-sparkle-version="13">
 <h2>Shipdeck 0.6.2</h2>
 <ul>
@@ -95,7 +103,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.2/Shipdeck-0.6.2.zip" length="10273674" type="application/octet-stream" sparkle:edSignature="vBImEiZiqfXOC4++m0KIBZE85/nmn3lMmpztUue5yfKDylXb5sivVmQvZ5EhtWt4h7fpwBniOXvuTiBI7ySGBg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.3/Shipdeck-0.6.3.zip" length="10744589" type="application/octet-stream" sparkle:edSignature="B0PZK3vqDf1G9lNWWj2nuMRkgQn7fZ32CaV2g3XtoXWBjTLDO+1RSdUhampG/Oy54erbqglCzk1qf9EEtESECw=="/>
         </item>
     </channel>
 </rss>
