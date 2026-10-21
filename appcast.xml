@@ -3,12 +3,21 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.6.8</title>
-            <pubDate>Wed, 21 Oct 2026 15:42:31 +0700</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>0.6.8</sparkle:shortVersionString>
+            <title>0.6.9</title>
+            <pubDate>Wed, 21 Oct 2026 16:49:34 +0700</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.6.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="20">
+<h2>Shipdeck 0.6.9</h2>
+<ul>
+  <li><b>Register App IDs from Shipdeck.</b> The App Store tab lists each iOS or macOS app's App ID: whether its bundle ID is registered, and which capabilities its entitlements use (Push Notifications, Game Center, Sign in with Apple, iCloud…) that aren't enabled yet. Register the App ID or enable what is missing after a confirmation, even before the app exists in App Store Connect. The release checklist checks both.</li>
+  <li><b>Agents can do it too, within limits.</b> Claude sessions get <code>asc.appIDs</code>, <code>asc.registerAppID</code> and <code>asc.enableCapabilities</code>. They only reach the product's own bundle IDs, their input is checked before you are asked to approve, and a misspelled field in any action is refused instead of being ignored.</li>
+  <li><b>Claude sessions are named after their topic.</b> A session's tab, the menu bar and the activity feed show what the conversation is about. Double-click or right-click a tab to rename it.</li>
+  <li><b>Product icons follow the repo.</b> When an app's icon file changes, Shipdeck shows the new icon instead of the one it saved before.</li>
+</ul>
+</div>
 <div data-sparkle-version="19">
 <h2>Shipdeck 0.6.8</h2>
 <ul>
@@ -141,7 +150,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.8/Shipdeck-0.6.8.zip" length="11504663" type="application/octet-stream" sparkle:edSignature="sVQ96zOKwC2M9A8b1lWJbAoeujfxfzeG6XypAQkGEgOEnUE3wGIObVUv4JrMolqx12dBQAy+qYRXP15xU/RVBg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.9/Shipdeck-0.6.9.zip" length="11932906" type="application/octet-stream" sparkle:edSignature="5e0ru4Pzu/YgzHJFFdtn1f9l8TkKlXY4mONwFvmlUfejtnWYYwwCmhy4ibNfJyTzfQ0eDvOR1+ZOPnAo2evtCA=="/>
         </item>
     </channel>
 </rss>
