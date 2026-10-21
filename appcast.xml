@@ -3,12 +3,20 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.6.5</title>
-            <pubDate>Wed, 21 Oct 2026 11:15:30 +0700</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+            <title>0.6.6</title>
+            <pubDate>Wed, 21 Oct 2026 13:37:25 +0700</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="17">
+<h2>Shipdeck 0.6.6</h2>
+<ul>
+  <li><b>A real release checklist for iOS and Android.</b> The Roadmap's checklist is now split by platform (General, iOS · App Store, Android · Google Play) and by phase, from preparing the accounts to submitting. A first release gets the full list (age rating, App Privacy, Data safety, closed testing…), an app already on the store gets the short update list. Each item fits on one line; click it for why it's needed and a link to Apple's or Google's docs.</li>
+  <li><b>Shipdeck ticks what it can check.</b> It reads the repo (Godot export presets, Flutter and Gradle settings, Xcode settings, icon size), your links and App Store Connect (age rating, category, store text, screenshots, App Review contact, encryption), and puts what's wrong in "To Fix First". Items Google Play would answer say so until it has a connector.</li>
+  <li><b>About the product.</b> Answer a few questions (in-app purchases, accounts, ads, kids…) with chips, or let Claude answer them from the code, and items that don't apply step aside. You can also mark any item "Not applicable".</li>
+</ul>
+</div>
 <div data-sparkle-version="16">
 <h2>Shipdeck 0.6.5</h2>
 <ul>
@@ -115,7 +123,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.5/Shipdeck-0.6.5.zip" length="10803120" type="application/octet-stream" sparkle:edSignature="IQamJYg/d3ybHpcfa58w7JFcGU1d6vcrnPiXT5XEMc3eO4RCscF5E9OLmGdlsevTluwa9JiQHOj+wtYml871DA=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.6/Shipdeck-0.6.6.zip" length="11383187" type="application/octet-stream" sparkle:edSignature="pw1+O0/E9mztukEur4sbFsAEZZhJ9dgo8BLte29We2XXxLrf1N+4BsuKg5joz1eqXjb4X1KxA45EjO9PJmouAQ=="/>
         </item>
     </channel>
 </rss>
