@@ -3,12 +3,18 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.7.1</title>
-            <pubDate>Wed, 21 Oct 2026 21:12:02 +0700</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <title>0.7.2</title>
+            <pubDate>Wed, 21 Oct 2026 21:20:30 +0700</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="23">
+<h2>Shipdeck 0.7.2</h2>
+<ul>
+  <li><b>Try new builds early.</b> Turn on Settings › General › Get Beta Updates to be offered test builds before they become a regular release. They may have bugs; turn it off to wait for the next regular release.</li>
+</ul>
+</div>
 <div data-sparkle-version="22">
 <h2>Shipdeck 0.7.1</h2>
 <ul>
@@ -165,7 +171,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.1/Shipdeck-0.7.1.zip" length="12153705" type="application/octet-stream" sparkle:edSignature="bia2raHRahjzYL4nFkFFceo9mka/y5hOKh43zt1R1LZMX7jYS4l/uyxrN0/Bf6LpMExN+vn7Bt2EDA5znqGBDg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.2/Shipdeck-0.7.2.zip" length="12155830" type="application/octet-stream" sparkle:edSignature="KVcE78GOyJ0uJUakhZ/Tn37hTTQzqXG/TGM1ej1IJ7QD0pwYmDWMzDax7yYJLIyWJ1BNRZmJfBvQZ13Px8vpDA=="/>
         </item>
     </channel>
 </rss>
