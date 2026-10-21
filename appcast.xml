@@ -3,12 +3,18 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.6.4</title>
-            <pubDate>Wed, 21 Oct 2026 11:03:57 +0700</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
+            <title>0.6.5</title>
+            <pubDate>Wed, 21 Oct 2026 11:15:30 +0700</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="16">
+<h2>Shipdeck 0.6.5</h2>
+<ul>
+  <li><b>See which product needs you.</b> The sidebar shows each product's open sessions in a green pill. When Claude asks for permission or a choice, or an agent's action waits in the approval inbox, the pill turns orange, the product says "Waiting for you", and the session's tab and the menu bar item show it too. It clears as soon as you answer in the terminal. Works in Claude sessions opened after updating.</li>
+</ul>
+</div>
 <div data-sparkle-version="15">
 <h2>Shipdeck 0.6.4</h2>
 <ul>
@@ -109,7 +115,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.4/Shipdeck-0.6.4.zip" length="10753233" type="application/octet-stream" sparkle:edSignature="+Mnw0BCkwQp+Y16mWEQFxUEwNQMAavbspBnoK3IAlBGFnIp0hW84+2Qheomyn6kcC0yFozupHtFPt21aSK/FAQ=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.6.5/Shipdeck-0.6.5.zip" length="10803120" type="application/octet-stream" sparkle:edSignature="IQamJYg/d3ybHpcfa58w7JFcGU1d6vcrnPiXT5XEMc3eO4RCscF5E9OLmGdlsevTluwa9JiQHOj+wtYml871DA=="/>
         </item>
     </channel>
 </rss>
