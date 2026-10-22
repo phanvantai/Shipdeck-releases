@@ -4,12 +4,13 @@
         <title>Shipdeck</title>
         <item>
             <title>0.7.3</title>
-            <pubDate>Thu, 22 Oct 2026 15:34:00 +0700</pubDate>
+            <pubDate>Thu, 22 Oct 2026 20:11:47 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>30</sparkle:version>
+            <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.7.3 beta (30)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.7.3 beta (31)</h2><ul>
+<li>Unreleased commits leave out docs-only changes</li>
 <li>Xcode Cloud: fixes from a real key (test destinations, builds per run, post-actions from builds, released macOS default)</li>
 <li>Xcode Cloud: ci.workflowOptions and ci.createWorkflow</li>
 <li>Xcode Cloud: ci.status, ci.build, ci.startBuild, ci.updateWorkflow and an App Store tab page</li>
@@ -23,7 +24,7 @@
 <li>Release checklist: Work with Claude on every open item</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.3-beta.30/Shipdeck-0.7.3.zip" length="16419243" type="application/octet-stream" sparkle:edSignature="KueJwXDiZu+6N5I3qbABsBsBT3/4YROhRh4xn4L7r1SsUy81s66vRDTbUlBCxAQm5FkoT/549yCuHBB/Xz6vBw=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.3-beta.31/Shipdeck-0.7.3.zip" length="16422743" type="application/octet-stream" sparkle:edSignature="VCtyB5Ep8a7WQezXV9xrV5bxxvFNU62eZ+Hu1axTVaxvlOBcfXettvdQ5LMF0gHp1tDGc5Z2Q9NKbE1MavJbAw=="/>
         </item>
         <item>
             <title>0.7.2</title>
