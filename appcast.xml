@@ -4,12 +4,14 @@
         <title>Shipdeck</title>
         <item>
             <title>0.7.3</title>
-            <pubDate>Thu, 22 Oct 2026 01:43:46 +0700</pubDate>
+            <pubDate>Thu, 22 Oct 2026 10:18:06 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>27</sparkle:version>
+            <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.7.3 beta (27)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.7.3 beta (28)</h2><ul>
+<li>App Store Connect tools: build check, repo-relative uploads, boolean age answers, screenshot fallback</li>
+<li>Session prompts name no language; Settings › Agents grouped by product</li>
 <li>Sidebar rows show the status as a colored badge</li>
 <li>Product statuses by stage, warnings that follow the status, store-required updates</li>
 <li>Agents push the store listing draft; pick checklist items with todos; keep the Mac awake</li>
@@ -17,7 +19,7 @@
 <li>Release checklist: Work with Claude on every open item</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.3-beta.27/Shipdeck-0.7.3.zip" length="15234081" type="application/octet-stream" sparkle:edSignature="XQfJR8sIAXMBQm7eaXWU35s9ZZ/PrF+0VzoU6thudEKMDd2P0s8f6O0+mpFOwCukiw2HX5UTSJi0QNNCr+7sAw=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.3-beta.28/Shipdeck-0.7.3.zip" length="15287029" type="application/octet-stream" sparkle:edSignature="Rq1Xtb/oNZrQLMmDXnMXbfDGOk+014kLmPxaAF6gp1v/hiV296qYy8uiE1VWf3g68W3So2BwwTJSy6KkqtfwDQ=="/>
         </item>
         <item>
             <title>0.7.2</title>
