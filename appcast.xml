@@ -4,12 +4,17 @@
         <title>Shipdeck</title>
         <item>
             <title>0.7.4</title>
-            <pubDate>Fri, 23 Oct 2026 16:58:34 +0700</pubDate>
+            <pubDate>Fri, 23 Oct 2026 17:13:08 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>38</sparkle:version>
+            <sparkle:version>39</sparkle:version>
             <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.7.4 beta (38)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.7.4 beta (39)</h2><ul>
+<li>Approval inbox in one row; store pages' explanations in info marks</li>
+<li>Jobs, Settings and New Tab: chips and icons instead of sentences</li>
+<li>Release checklist: one-line next step, platform segments, folded questions</li>
+<li>Portfolio rows say what each product is; sidebar rows are one line</li>
+<li>Declutter the product Overview</li>
 <li>Google Play phase 2: releases, rollouts, store listing, testers, reviews, products, vitals</li>
 <li>Spec Google Play phase 2: releases, rollouts, listing, testers, reviews, products</li>
 <li>Don't count commits in the build under review as unreleased</li>
@@ -18,7 +23,7 @@
 <li>Start the release checklist over once the release is on the App Store</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.4-beta.38/Shipdeck-0.7.4.zip" length="20816710" type="application/octet-stream" sparkle:edSignature="ltDJr4USSkaoVSthNcKz7NKmbYOOdaOybL3ZMq/66ubwJEWHkOXFCW9wYu5Fl7E4cCAgXKjm93u/j0LHE5YeCg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.4-beta.39/Shipdeck-0.7.4.zip" length="21086038" type="application/octet-stream" sparkle:edSignature="YLTncPhFE9FCbQp4CZB6XrUfp5j/aMvC9ODxIxjnlY02+nxdvlcFEGCjwHJDWP+yDXnFORclOd+7LrFeii2SDA=="/>
         </item>
         <item>
             <title>0.7.3</title>
