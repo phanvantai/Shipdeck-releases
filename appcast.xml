@@ -4,36 +4,23 @@
         <title>Shipdeck</title>
         <item>
             <title>0.7.3</title>
-            <pubDate>Thu, 22 Oct 2026 20:49:44 +0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>32</sparkle:version>
+            <pubDate>Fri, 23 Oct 2026 09:17:09 +0700</pubDate>
+            <sparkle:version>33</sparkle:version>
             <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.7.3 beta (32)</h2><ul>
-<li>New Product: start a product from an idea, then Start Building from its specs</li>
-<li>Unreleased commits leave out docs-only changes</li>
-<li>Xcode Cloud: fixes from a real key (test destinations, builds per run, post-actions from builds, released macOS default)</li>
-<li>Xcode Cloud: ci.workflowOptions and ci.createWorkflow</li>
-<li>Xcode Cloud: ci.status, ci.build, ci.startBuild, ci.updateWorkflow and an App Store tab page</li>
-<li>Fix the launch freeze: look for git without holding the lock</li>
-<li>App Store Connect tools: build check, repo-relative uploads, boolean age answers, screenshot fallback</li>
-<li>Session prompts name no language; Settings › Agents grouped by product</li>
-<li>Sidebar rows show the status as a colored badge</li>
-<li>Product statuses by stage, warnings that follow the status, store-required updates</li>
-<li>Agents push the store listing draft; pick checklist items with todos; keep the Mac awake</li>
-<li>App Store Connect phase 2: TestFlight, store listing, screenshots, pricing, IAPs, sales</li>
-<li>Release checklist: Work with Claude on every open item</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.3-beta.32/Shipdeck-0.7.3.zip" length="16552657" type="application/octet-stream" sparkle:edSignature="xUQzDHssVkg+gmCW7yzfYqrXzpA3pRb/Evlarmaz8l2mw4PFeozERHK3IT2TNePW7+3STece14PtG5gXRP6WAg=="/>
-        </item>
-        <item>
-            <title>0.7.2</title>
-            <pubDate>Wed, 21 Oct 2026 21:20:30 +0700</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="33">
+<h2>Shipdeck 0.7.3</h2>
+<ul>
+  <li><b>Google Play.</b> Add a service account key in Settings › Accounts, then connect an Android app from its Overview or its release checklist. Shipdeck reads its tracks, store text and graphics, shows the newest release on each track, and ticks the Android checklist items itself: internal test, store text, graphics, screenshots, release notes and rollout. It only reads; nothing is changed on Google Play.</li>
+  <li><b>Start a new product from an idea.</b> Start a New Product (⌘N) makes a folder in your Projects Folder, runs git init and saves it as an Idea, ready to brainstorm specs with Claude. Once a spec is agreed, Start Building… on the Roadmap hands it to Claude.</li>
+  <li><b>Statuses that follow the product.</b> Idea, Building and Paused before release; Active and Stable after; Retired at the end. Warnings follow the status, and when the facts disagree Shipdeck suggests a new one that you apply with one click. Released apps also hear about store deadlines: Google Play's target API and Billing Library, and Apple removing apps not updated for 3 years.</li>
+  <li><b>More of App Store Connect.</b> TestFlight groups and testers, the store listing in a local draft you review before pushing, screenshots, pricing and age rating, in-app purchases and subscriptions, and sales. Xcode Cloud works with real workflows: test destinations, builds per run and TestFlight post-actions.</li>
+  <li><b>Work with Claude on any checklist item.</b> Every open item offers Work with Claude…, and Select picks checklist items and todos together for one session. Agents can push the listing draft once you approve.</li>
+  <li><b>Keep the Mac awake.</b> While sessions are open, Shipdeck stops idle sleep (Settings › General); the display still sleeps.</li>
+  <li><b>Fixes.</b> Commits that only change docs no longer count as unreleased. The sidebar shows each product's status as a colored badge. Settings › Agents groups rules by product.</li>
+</ul>
+</div>
 <div data-sparkle-version="23">
 <h2>Shipdeck 0.7.2</h2>
 <ul>
@@ -196,7 +183,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.2/Shipdeck-0.7.2.zip" length="12155830" type="application/octet-stream" sparkle:edSignature="KVcE78GOyJ0uJUakhZ/Tn37hTTQzqXG/TGM1ej1IJ7QD0pwYmDWMzDax7yYJLIyWJ1BNRZmJfBvQZ13Px8vpDA=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.3/Shipdeck-0.7.3.zip" length="17168645" type="application/octet-stream" sparkle:edSignature="QhpXAC0vbSSjbRZSi7QB8ZZYxLsLeHfxB28ADmjSMM0udW3UNHlYCyBGLQ8gDBALRDbpNDQPARG26k4fBT7IBg=="/>
         </item>
     </channel>
 </rss>
