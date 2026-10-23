@@ -3,6 +3,19 @@
     <channel>
         <title>Shipdeck</title>
         <item>
+            <title>0.7.4</title>
+            <pubDate>Fri, 23 Oct 2026 11:47:06 +0700</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Shipdeck 0.7.4 beta (34)</h2><ul>
+<li>Start the release checklist over once the release is on the App Store</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.4-beta.34/Shipdeck-0.7.4.zip" length="17200489" type="application/octet-stream" sparkle:edSignature="TLHDG3uJOK9sC1yCUlMTKJKd+HA1+2NTxqrAsDb2QEsuu8NHCFoIEILMO7g9Y+i+cQ0JYo9iDNLl7Rhsda4FAA=="/>
+        </item>
+        <item>
             <title>0.7.3</title>
             <pubDate>Fri, 23 Oct 2026 09:17:09 +0700</pubDate>
             <sparkle:version>33</sparkle:version>
