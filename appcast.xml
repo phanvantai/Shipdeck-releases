@@ -4,12 +4,14 @@
         <title>Shipdeck</title>
         <item>
             <title>0.7.4</title>
-            <pubDate>Fri, 23 Oct 2026 17:13:08 +0700</pubDate>
+            <pubDate>Sat, 24 Oct 2026 14:15:56 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>39</sparkle:version>
+            <sparkle:version>40</sparkle:version>
             <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.7.4 beta (39)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.7.4 beta (40)</h2><ul>
+<li>Read the App Store live version without the URL cache</li>
+<li>Finished jobs: own section, no rerun, Wait Again; Godot icons from the project</li>
 <li>Approval inbox in one row; store pages' explanations in info marks</li>
 <li>Jobs, Settings and New Tab: chips and icons instead of sentences</li>
 <li>Release checklist: one-line next step, platform segments, folded questions</li>
@@ -23,7 +25,7 @@
 <li>Start the release checklist over once the release is on the App Store</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.4-beta.39/Shipdeck-0.7.4.zip" length="21086038" type="application/octet-stream" sparkle:edSignature="YLTncPhFE9FCbQp4CZB6XrUfp5j/aMvC9ODxIxjnlY02+nxdvlcFEGCjwHJDWP+yDXnFORclOd+7LrFeii2SDA=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.4-beta.40/Shipdeck-0.7.4.zip" length="21138895" type="application/octet-stream" sparkle:edSignature="3BlOuF6D+7/RB/7MTNPQGQhT8gPy9+1iXYm113VKFUm4Uju4BgRfgOVRmxcp1frXm6TnOYMDTYMV0iNbiexWCQ=="/>
         </item>
         <item>
             <title>0.7.3</title>
