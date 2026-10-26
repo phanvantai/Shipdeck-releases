@@ -4,12 +4,14 @@
         <title>Shipdeck</title>
         <item>
             <title>0.7.4</title>
-            <pubDate>Mon, 26 Oct 2026 10:54:17 +0700</pubDate>
+            <pubDate>Mon, 26 Oct 2026 11:49:08 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>41</sparkle:version>
+            <sparkle:version>42</sparkle:version>
             <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.7.4 beta (41)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.7.4 beta (42)</h2><ul>
+<li>Delivery tab: where every product ships, replacing the store tabs</li>
+<li>Delivery spec and mockup</li>
 <li>Close a session's tab when its shell exits; Restart for one that failed</li>
 <li>Keep the survey's deny rules few, so Glob and Grep see the repo</li>
 <li>Read the App Store live version without the URL cache</li>
@@ -27,7 +29,7 @@
 <li>Start the release checklist over once the release is on the App Store</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.4-beta.41/Shipdeck-0.7.4.zip" length="21187992" type="application/octet-stream" sparkle:edSignature="wm9cMpuoDnTeE0y9YlbfvbMli468EiKmSyvNQlwZnPmzozduqslKXchb9h3Ba7Zrbpp76p81EJenRR5OBoMSDw=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.4-beta.42/Shipdeck-0.7.4.zip" length="21511198" type="application/octet-stream" sparkle:edSignature="YYX7r6GFu0Iu0vKAqpsFT1YeS8+SdmmKGERvPT6E+gNusYnIlq6BaOkos1gR/c0wxZsKe0V0k28DYbrfV/KFAw=="/>
         </item>
         <item>
             <title>0.7.3</title>
