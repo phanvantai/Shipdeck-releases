@@ -3,12 +3,18 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.8.3</title>
-            <pubDate>Tue, 27 Oct 2026 20:23:15 +0700</pubDate>
-            <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
+            <title>0.8.4</title>
+            <pubDate>Tue, 27 Oct 2026 21:23:50 +0700</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="49">
+<h2>Shipdeck 0.8.4</h2>
+<ul>
+  <li><b>Choose how Claude starts.</b> Settings › General › Claude Command sets what new sessions run instead of <code>claude</code>, such as an alias for another Claude account (<code>claude-work</code>). The menu next to it lists the aliases in your shell that start Claude. Adding a product, Sync with Code and background jobs still use <code>claude</code>.</li>
+</ul>
+</div>
 <div data-sparkle-version="48">
 <h2>Shipdeck 0.8.3</h2>
 <ul>
@@ -223,7 +229,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.3/Shipdeck-0.8.3.zip" length="25984586" type="application/octet-stream" sparkle:edSignature="oZtOSsy9PiOBqO2AxYGmO1MKFDc4JKx5iWiQn85qo4X/0ctR8V8jmd6FvAd+IuxjOZ+dvA4S68nDibFrZF/ODQ=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.4/Shipdeck-0.8.4.zip" length="26019532" type="application/octet-stream" sparkle:edSignature="ApymuBoXncJgLc44fNZwKr1bG6SkfthdaV1px19FHqxFXSau3c98QcTSlqpU6dywiiowLwvvypuWeL6tpGwECg=="/>
         </item>
     </channel>
 </rss>
