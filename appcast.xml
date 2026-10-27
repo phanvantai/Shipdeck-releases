@@ -3,12 +3,20 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.8.0</title>
-            <pubDate>Tue, 27 Oct 2026 13:53:06 +0700</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <title>0.8.1</title>
+            <pubDate>Tue, 27 Oct 2026 14:41:11 +0700</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="46">
+<h2>Shipdeck 0.8.1</h2>
+<ul>
+  <li><b>Google Play products.</b> Reading and saving one-time products and subscriptions works again; it failed for every app with "Unknown name pageSize". Prices show the US price.</li>
+  <li><b>Google Play vitals.</b> Crash and ANR rates load again; they failed for every app because Shipdeck asked for days Google doesn't have yet.</li>
+  <li><b>Fewer refused changes.</b> Shipdeck now checks what Google requires before asking you: a description on one-time products, countries only with a staged rollout, a new subscription in the app's default language. Renaming a product keeps its description.</li>
+</ul>
+</div>
 <div data-sparkle-version="45">
 <h2>Shipdeck 0.8.0 · public beta</h2>
 <ul>
@@ -197,7 +205,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.0/Shipdeck-0.8.0.zip" length="24878059" type="application/octet-stream" sparkle:edSignature="5abYA3AT8bYP7XnpPUvtXf0iVZFmiI4o57yQe5QZWlRZVepyUtBYWW/53v2LCmKu81TvdrqL/Q1ww2hQiUSyDw=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.1/Shipdeck-0.8.1.zip" length="24893793" type="application/octet-stream" sparkle:edSignature="FjeAj3rqnW/+TRYm+K/ubj7lYnnnGmY2yZ6+9D7naf34MsB6uKCcDL5+oYzV3mngRj3nhaVBKI5rOk4JXWZWAQ=="/>
         </item>
     </channel>
 </rss>
