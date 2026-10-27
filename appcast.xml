@@ -3,44 +3,26 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.7.4</title>
-            <pubDate>Tue, 27 Oct 2026 08:10:09 +0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.7.4 beta (44)</h2><ul>
-<li>Delivery phase 3: GitHub Actions, Coolify, launch checklists, jobs and sessions per deployment</li>
-<li>Delivery: marketing sites, one-click owner actions, one store chip</li>
-<li>Deployments: where a product runs and for whom (Delivery phase 2)</li>
-<li>Delivery tab: where every product ships, replacing the store tabs</li>
-<li>Delivery spec and mockup</li>
-<li>Close a session's tab when its shell exits; Restart for one that failed</li>
-<li>Keep the survey's deny rules few, so Glob and Grep see the repo</li>
-<li>Read the App Store live version without the URL cache</li>
-<li>Finished jobs: own section, no rerun, Wait Again; Godot icons from the project</li>
-<li>Approval inbox in one row; store pages' explanations in info marks</li>
-<li>Jobs, Settings and New Tab: chips and icons instead of sentences</li>
-<li>Release checklist: one-line next step, platform segments, folded questions</li>
-<li>Portfolio rows say what each product is; sidebar rows are one line</li>
-<li>Declutter the product Overview</li>
-<li>Google Play phase 2: releases, rollouts, store listing, testers, reviews, products, vitals</li>
-<li>Spec Google Play phase 2: releases, rollouts, listing, testers, reviews, products</li>
-<li>Don't count commits in the build under review as unreleased</li>
-<li>Session tabs: a New Tab that starts or resumes Claude conversations</li>
-<li>Add jobs: work that runs by itself when something happens</li>
-<li>Start the release checklist over once the release is on the App Store</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.4-beta.44/Shipdeck-0.7.4.zip" length="22494364" type="application/octet-stream" sparkle:edSignature="q/oGkM+U6QST0xEV0eFWMDrrt1MO5Xy1rps58jHeFcznKXrGb85wS44FW07NK29B9vO4hNgXlWKPvrc1sgszBA=="/>
-        </item>
-        <item>
-            <title>0.7.3</title>
-            <pubDate>Fri, 23 Oct 2026 09:17:09 +0700</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+            <title>0.8.0</title>
+            <pubDate>Tue, 27 Oct 2026 13:53:06 +0700</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="45">
+<h2>Shipdeck 0.8.0 · public beta</h2>
+<ul>
+  <li><b>Delivery.</b> A new tab shows how each product ships: Xcode Cloud and GitHub Actions runs on top, what needs you, then every channel in production and testing (App Store, Google Play, websites, backends, Sparkle appcasts). Store rows open that app's App Store Connect or Google Play pages in place.</li>
+  <li><b>Deployments.</b> Products you run for several customers get a row per deployment: production, staging or dev, live or down, the version their health check reports and how far each branch is behind. Coolify apps show their status and deploy from Shipdeck, and a deployment being set up has its own launch checklist.</li>
+  <li><b>Google Play, read and write.</b> Upload a bundle, release it to a track, raise, halt or finish a staged rollout, promote between tracks, edit the store listing and testers, reply to reviews, manage products and subscriptions, and read Android vitals. Every change is shown before it is sent.</li>
+  <li><b>Jobs.</b> Work that runs by itself when something happens or on a schedule: draft replies to new low reviews, tag the release once it's live, check a site after a push. A job runs Shipdeck actions, a command or Claude, and keeps its history.</li>
+  <li><b>See which agent needs you.</b> The sidebar shows each product's Claude sessions: a spinner while Claude works, a green dot when it's done and ready for your next message, an orange hand when it asks you something. A New Tab starts a session anywhere in the product or resumes a recent conversation.</li>
+  <li><b>A calmer interface.</b> Portfolio rows say what each product is, the sidebar is one line per product, and the Overview, release checklist, Jobs and Settings use chips and icons instead of sentences.</li>
+  <li><b>Easier first run.</b> Shipdeck finds Claude Code installed with an alias or outside your PATH, works with API keys, Bedrock, Vertex and proxies set in your shell or Claude's settings, explains when Claude can't start or Xcode's license isn't accepted, and asks before surveying a folder that isn't a repo.</li>
+  <li><b>Crash reports.</b> When Shipdeck crashes or freezes it reports where in its own code, never your products, paths or keys. Turn it off in Settings › General.</li>
+  <li><b>Fixes.</b> Commits in the build under review no longer count as unreleased, the release checklist starts over once a version is on the App Store, a session's tab closes when its shell exits (Restart keeps a failed one), and the App Store live version is read fresh.</li>
+</ul>
+</div>
 <div data-sparkle-version="33">
 <h2>Shipdeck 0.7.3</h2>
 <ul>
@@ -215,7 +197,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.7.3/Shipdeck-0.7.3.zip" length="17168645" type="application/octet-stream" sparkle:edSignature="QhpXAC0vbSSjbRZSi7QB8ZZYxLsLeHfxB28ADmjSMM0udW3UNHlYCyBGLQ8gDBALRDbpNDQPARG26k4fBT7IBg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.0/Shipdeck-0.8.0.zip" length="24878059" type="application/octet-stream" sparkle:edSignature="5abYA3AT8bYP7XnpPUvtXf0iVZFmiI4o57yQe5QZWlRZVepyUtBYWW/53v2LCmKu81TvdrqL/Q1ww2hQiUSyDw=="/>
         </item>
     </channel>
 </rss>
