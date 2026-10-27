@@ -3,12 +3,20 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.8.1</title>
-            <pubDate>Tue, 27 Oct 2026 14:41:11 +0700</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+            <title>0.8.2</title>
+            <pubDate>Tue, 27 Oct 2026 15:29:38 +0700</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="47">
+<h2>Shipdeck 0.8.2</h2>
+<ul>
+  <li><b>Drop files into sessions.</b> Dropping files, images or text on a session's terminal pastes them like Terminal does: file paths for the shell, and in a Claude session a dropped image is attached as an image. Photos, screenshot thumbnails and browser images work too.</li>
+  <li><b>App Store and Google Play pages fit the window.</b> In a narrow window the section bar becomes a menu, instead of pushing the whole window past its edges.</li>
+  <li><b>Each deployment gets its own app.</b> When every customer has their own app, the survey and Sync with Code put each app under its deployment, the production customer's too, instead of showing it as the product's own App Store and Google Play rows. Run Sync with Code to fix a product surveyed before.</li>
+</ul>
+</div>
 <div data-sparkle-version="46">
 <h2>Shipdeck 0.8.1</h2>
 <ul>
@@ -205,7 +213,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.1/Shipdeck-0.8.1.zip" length="24893793" type="application/octet-stream" sparkle:edSignature="FjeAj3rqnW/+TRYm+K/ubj7lYnnnGmY2yZ6+9D7naf34MsB6uKCcDL5+oYzV3mngRj3nhaVBKI5rOk4JXWZWAQ=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.2/Shipdeck-0.8.2.zip" length="24941119" type="application/octet-stream" sparkle:edSignature="y7UQU1HiwCUfZ7DVYDH6R5nHU5uc5MKXJYI4+K4C+MKpThsxN5crnMq+j+UbcSk3zF+2XSj1nn8fBgDPK0p2DA=="/>
         </item>
     </channel>
 </rss>
