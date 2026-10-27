@@ -3,12 +3,22 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.8.2</title>
-            <pubDate>Tue, 27 Oct 2026 15:29:38 +0700</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+            <title>0.8.3</title>
+            <pubDate>Tue, 27 Oct 2026 20:23:15 +0700</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="48">
+<h2>Shipdeck 0.8.3</h2>
+<ul>
+  <li><b>Marketing.</b> A new tab in every product keeps its subreddits with their rules, your drafts and how each post did. Claude drafts posts from the product's real versions and changes, then checks your posts and drafts replies in your own Chrome with Claude in Chrome. Nothing is posted until you say yes. Comments waiting for you, posts the moderators removed and drafts ready to go show at the top.</li>
+  <li><b>Tell people about a release.</b> When a version goes out, Marketing asks whether to announce it. A kit keeps the pitch, description, screenshots and demo video every post builds on, App Store downloads are charted next to the days you posted, and the Portfolio shows posts this week and comments waiting.</li>
+  <li><b>Jobs for marketing.</b> Jobs can run when a comment waits for you or a post is removed, and a Claude session job can use Claude in Chrome. Check Every Morning adds one that checks your posts at 9:00.</li>
+  <li><b>Sync with Code sees deployments.</b> Sync now offers the changes Claude finds in a product's deployments, such as each customer's own app, instead of saying nothing changed.</li>
+  <li><b>TestFlight crash reports in full.</b> Claude can read a TestFlight crash or screenshot report with every device detail, save the crash log and sum up where it crashed.</li>
+</ul>
+</div>
 <div data-sparkle-version="47">
 <h2>Shipdeck 0.8.2</h2>
 <ul>
@@ -213,7 +223,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.2/Shipdeck-0.8.2.zip" length="24941119" type="application/octet-stream" sparkle:edSignature="y7UQU1HiwCUfZ7DVYDH6R5nHU5uc5MKXJYI4+K4C+MKpThsxN5crnMq+j+UbcSk3zF+2XSj1nn8fBgDPK0p2DA=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.3/Shipdeck-0.8.3.zip" length="25984586" type="application/octet-stream" sparkle:edSignature="oZtOSsy9PiOBqO2AxYGmO1MKFDc4JKx5iWiQn85qo4X/0ctR8V8jmd6FvAd+IuxjOZ+dvA4S68nDibFrZF/ODQ=="/>
         </item>
     </channel>
 </rss>
