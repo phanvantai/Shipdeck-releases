@@ -4,16 +4,17 @@
         <title>Shipdeck</title>
         <item>
             <title>0.8.6</title>
-            <pubDate>Thu, 29 Oct 2026 15:21:48 +0700</pubDate>
+            <pubDate>Thu, 29 Oct 2026 16:30:19 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>51</sparkle:version>
+            <sparkle:version>52</sparkle:version>
             <sparkle:shortVersionString>0.8.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.8.6 beta (51)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.8.6 beta (52)</h2><ul>
+<li>Browser: one sidebar of tabs for the whole app, shared by every session</li>
 <li>Built-in browser beside each session, driven by its agent</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.6-beta.51/Shipdeck-0.8.6.zip" length="26327693" type="application/octet-stream" sparkle:edSignature="mnH/fq2LtBWD6GwHeph5wa9Hx4wvnfHIdfuOOHylJqEv00uS9fy9kmyJZq/T2E21I6bZkOOWYXFuv89d91+cDQ=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.6-beta.52/Shipdeck-0.8.6.zip" length="26466210" type="application/octet-stream" sparkle:edSignature="/xT8WIWHxJp5EzuYuJhHdjHz+QD2YwUwrvB1+3vGMrCVoFSMjb/CQlovD/IR/9oPt4PHeXxT9o5s9E1gX7UYCg=="/>
         </item>
         <item>
             <title>0.8.5</title>
