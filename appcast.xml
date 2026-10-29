@@ -4,27 +4,20 @@
         <title>Shipdeck</title>
         <item>
             <title>0.8.6</title>
-            <pubDate>Thu, 29 Oct 2026 22:04:05 +0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>54</sparkle:version>
+            <pubDate>Thu, 29 Oct 2026 23:38:06 +0700</pubDate>
+            <sparkle:version>55</sparkle:version>
             <sparkle:shortVersionString>0.8.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.8.6 beta (54)</h2><ul>
-<li>Browser: toggle at the toolbar's end, no toolbar flicker, + after the last tab</li>
-<li>Fix the layout-loop crash with the browser beside a narrow page</li>
-<li>Browser: one sidebar of tabs for the whole app, shared by every session</li>
-<li>Built-in browser beside each session, driven by its agent</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.6-beta.54/Shipdeck-0.8.6.zip" length="26460653" type="application/octet-stream" sparkle:edSignature="ie06qQ41wiiFvglUTj0Pd29DY8YsRq6z3/5p8ReVcApNYDqDdlFqUIBH0XO6t6sSaiSx4k8DDE4GAMLtxTkUAA=="/>
-        </item>
-        <item>
-            <title>0.8.5</title>
-            <pubDate>Thu, 29 Oct 2026 12:00:06 +0700</pubDate>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>0.8.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="55">
+<h2>Shipdeck 0.8.6</h2>
+<ul>
+  <li><b>A browser inside Shipdeck.</b> The browser button at the end of the toolbar opens a browser beside any page, with tabs shared by the whole app, so you sign in to a site once. Claude sessions can read pages, click and type there for you, and every post, reply or save waits until you allow it. Marketing's Reddit flows now use it.</li>
+  <li><b>File uploads in the browser.</b> Clicking a file field opens the Open panel. Agents can upload files from the product's repos too, after you allow each upload.</li>
+  <li><b>Founder price, remembered.</b> Shipdeck now notes on this Mac that you used the beta. When 1.0 arrives, beta testers keep Pro at $29 a year instead of $59. Nothing changes while the beta lasts: every feature stays free.</li>
+  <li><b>Fixed</b> a crash when the browser was open beside a page wider than the window.</li>
+</ul>
+</div>
 <div data-sparkle-version="50">
 <h2>Shipdeck 0.8.5</h2>
 <ul>
@@ -252,7 +245,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.5/Shipdeck-0.8.5.zip" length="26024551" type="application/octet-stream" sparkle:edSignature="LXxqJEqHOZblfaJ+jdSsxkizLncmYJvYdEF45VQc0P5QbwUWIGGvaLVKTtDcpvdoMCPSM2UVq2rbItuKR6MYBg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.6/Shipdeck-0.8.6.zip" length="26705702" type="application/octet-stream" sparkle:edSignature="lIoc5eU/H1WY9pKVwKz7k+M3i5jb9+XnL9yjr2jDykmZkW+EYLX1OCvqxucdEGJuo9JINCO8Ia2K3UFH4p3DBA=="/>
         </item>
     </channel>
 </rss>
