@@ -3,12 +3,19 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.8.4</title>
-            <pubDate>Tue, 27 Oct 2026 21:23:50 +0700</pubDate>
-            <sparkle:version>49</sparkle:version>
-            <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
+            <title>0.8.5</title>
+            <pubDate>Thu, 29 Oct 2026 12:00:06 +0700</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>0.8.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="50">
+<h2>Shipdeck 0.8.5</h2>
+<ul>
+  <li><b>The sidebar stays put.</b> Looking at a product no longer moves it to the top of Recently Used. Products with open sessions come first, in the order they got them, and the rest follow by when a session last opened or closed in them.</li>
+  <li><b>Fewer crash reports, less in them.</b> App Store Connect and Google Play answers Shipdeck already handles, such as an app without Xcode Cloud, are no longer sent as reports, so no app ids or package names leave your Mac with them.</li>
+</ul>
+</div>
 <div data-sparkle-version="49">
 <h2>Shipdeck 0.8.4</h2>
 <ul>
@@ -229,7 +236,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.4/Shipdeck-0.8.4.zip" length="26019532" type="application/octet-stream" sparkle:edSignature="ApymuBoXncJgLc44fNZwKr1bG6SkfthdaV1px19FHqxFXSau3c98QcTSlqpU6dywiiowLwvvypuWeL6tpGwECg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.5/Shipdeck-0.8.5.zip" length="26024551" type="application/octet-stream" sparkle:edSignature="LXxqJEqHOZblfaJ+jdSsxkizLncmYJvYdEF45VQc0P5QbwUWIGGvaLVKTtDcpvdoMCPSM2UVq2rbItuKR6MYBg=="/>
         </item>
     </channel>
 </rss>
