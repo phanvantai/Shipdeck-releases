@@ -4,17 +4,18 @@
         <title>Shipdeck</title>
         <item>
             <title>0.8.6</title>
-            <pubDate>Thu, 29 Oct 2026 16:30:19 +0700</pubDate>
+            <pubDate>Thu, 29 Oct 2026 20:38:02 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>52</sparkle:version>
+            <sparkle:version>53</sparkle:version>
             <sparkle:shortVersionString>0.8.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.8.6 beta (52)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.8.6 beta (53)</h2><ul>
+<li>Fix the layout-loop crash with the browser beside a narrow page</li>
 <li>Browser: one sidebar of tabs for the whole app, shared by every session</li>
 <li>Built-in browser beside each session, driven by its agent</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.6-beta.52/Shipdeck-0.8.6.zip" length="26466210" type="application/octet-stream" sparkle:edSignature="/xT8WIWHxJp5EzuYuJhHdjHz+QD2YwUwrvB1+3vGMrCVoFSMjb/CQlovD/IR/9oPt4PHeXxT9o5s9E1gX7UYCg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.6-beta.53/Shipdeck-0.8.6.zip" length="26468623" type="application/octet-stream" sparkle:edSignature="ptgPsdFbhF97HSbZENIkjoyB+XTXD86TmC8lx8+iVptdbfr8f5Lr7iumg5uvhcOf9t4VaUmbW2kHy6avgjXoDA=="/>
         </item>
         <item>
             <title>0.8.5</title>
