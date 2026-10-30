@@ -3,12 +3,19 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.8.8</title>
-            <pubDate>Fri, 30 Oct 2026 10:01:57 +0700</pubDate>
-            <sparkle:version>57</sparkle:version>
-            <sparkle:shortVersionString>0.8.8</sparkle:shortVersionString>
+            <title>0.9.0</title>
+            <pubDate>Fri, 30 Oct 2026 10:32:19 +0700</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="58">
+<h2>Shipdeck 0.9.0</h2>
+<ul>
+  <li><b>The road to 1.0.</b> No new features since 0.8.8: this release gathers the 0.8 series (the built-in browser, saved sign-ins and passwords, connecting any AI tool over MCP, approving from notifications) as the base for 1.0.</li>
+  <li><b>Connect an AI Tool, checked end to end.</b> A tool outside Shipdeck connected with only its token finds Shipdeck, lists its tools and reads the portfolio, as Claude Code in Terminal does.</li>
+</ul>
+</div>
 <div data-sparkle-version="57">
 <h2>Shipdeck 0.8.8</h2>
 <ul>
@@ -262,7 +269,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.8/Shipdeck-0.8.8.zip" length="27571214" type="application/octet-stream" sparkle:edSignature="XTghxMmiMucztWI30mopjUJJpiYHQacA8QX28opqpeDOzSgicmcMDWjf11zdSemY4sr+6h7+2FPil8vKzMnFAw=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.0/Shipdeck-0.9.0.zip" length="27571230" type="application/octet-stream" sparkle:edSignature="kHMsj+AVLv657HsU+a4uy0ELOq2zEtMxnvrq1qUCQNh/mBEVmnc/So8YVdTR+d+bL96SxcSP5eSrtZuI1JtYBg=="/>
         </item>
     </channel>
 </rss>
