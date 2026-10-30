@@ -3,12 +3,21 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.8.6</title>
-            <pubDate>Thu, 29 Oct 2026 23:38:06 +0700</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>0.8.6</sparkle:shortVersionString>
+            <title>0.8.7</title>
+            <pubDate>Fri, 30 Oct 2026 07:51:35 +0700</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>0.8.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="56">
+<h2>Shipdeck 0.8.7</h2>
+<ul>
+  <li><b>Stay signed in.</b> The built-in browser now keeps sign-ins that used to end when Shipdeck quit, such as App Store Connect's, so you sign in once.</li>
+  <li><b>Saved passwords.</b> After you sign in, the browser offers to save the password in your login keychain. The key in the address bar fills it next time. Claude never sees your passwords. Settings › Browser lists them.</li>
+  <li><b>Address suggestions and search.</b> Typing in the address bar suggests pages you opened before, and anything that isn't an address searches Google.</li>
+  <li><b>Fixed</b> a crash when the browser was dragged very wide.</li>
+</ul>
+</div>
 <div data-sparkle-version="55">
 <h2>Shipdeck 0.8.6</h2>
 <ul>
@@ -245,7 +254,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.6/Shipdeck-0.8.6.zip" length="26705702" type="application/octet-stream" sparkle:edSignature="lIoc5eU/H1WY9pKVwKz7k+M3i5jb9+XnL9yjr2jDykmZkW+EYLX1OCvqxucdEGJuo9JINCO8Ia2K3UFH4p3DBA=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.7/Shipdeck-0.8.7.zip" length="26916419" type="application/octet-stream" sparkle:edSignature="1sQk/l/GpyYDmJNWPglaw4KLPC1dn4bUUFrgHJ3lNffmwKk8JINOcY+96fTojEN6Z1BhfhWOK5VOGRWQ4g8jDg=="/>
         </item>
     </channel>
 </rss>
