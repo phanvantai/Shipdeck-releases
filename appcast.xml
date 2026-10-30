@@ -3,12 +3,20 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.8.7</title>
-            <pubDate>Fri, 30 Oct 2026 07:51:35 +0700</pubDate>
-            <sparkle:version>56</sparkle:version>
-            <sparkle:shortVersionString>0.8.7</sparkle:shortVersionString>
+            <title>0.8.8</title>
+            <pubDate>Fri, 30 Oct 2026 10:01:57 +0700</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>0.8.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="57">
+<h2>Shipdeck 0.8.8</h2>
+<ul>
+  <li><b>Bring your own AI tool.</b> Settings › Agents › Connect an AI Tool connects Claude Code in Terminal, Cursor, Codex, Claude Desktop or any tool that speaks MCP, to one product or your whole portfolio. Shipdeck starts in the background when a tool needs it.</li>
+  <li><b>Everything the window does, an agent can do.</b> Agents can now add a product from a repo they read themselves, sync it, start a new one, refresh, rename sessions and change settings. Removing a product, linking a store or changing settings asks you every time; your store keys are never an agent's.</li>
+  <li><b>Approve from the notification.</b> Approval notifications have Allow and Deny buttons, so you can answer without opening the window. A tool that waits longer than a minute picks up the answer later instead of giving up.</li>
+</ul>
+</div>
 <div data-sparkle-version="56">
 <h2>Shipdeck 0.8.7</h2>
 <ul>
@@ -254,7 +262,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.7/Shipdeck-0.8.7.zip" length="26916419" type="application/octet-stream" sparkle:edSignature="1sQk/l/GpyYDmJNWPglaw4KLPC1dn4bUUFrgHJ3lNffmwKk8JINOcY+96fTojEN6Z1BhfhWOK5VOGRWQ4g8jDg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.8.8/Shipdeck-0.8.8.zip" length="27571214" type="application/octet-stream" sparkle:edSignature="XTghxMmiMucztWI30mopjUJJpiYHQacA8QX28opqpeDOzSgicmcMDWjf11zdSemY4sr+6h7+2FPil8vKzMnFAw=="/>
         </item>
     </channel>
 </rss>
