@@ -3,12 +3,22 @@
     <channel>
         <title>Shipdeck</title>
         <item>
-            <title>0.9.0</title>
-            <pubDate>Fri, 30 Oct 2026 10:32:19 +0700</pubDate>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <title>0.9.1</title>
+            <pubDate>Sat, 31 Oct 2026 23:39:50 +0700</pubDate>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="59">
+<h2>Shipdeck 0.9.1</h2>
+<ul>
+  <li><b>No more crash on first launch.</b> With no products yet, the Welcome screen could crash Shipdeck as it opened. It now opens every time.</li>
+  <li><b>Browser tabs stay in the sidebar.</b> A browser tab you weren't looking at could show up as a stray window beside Shipdeck's. Background tabs now stay out of sight.</li>
+  <li><b>App Store submissions say what's missing.</b> When Apple refuses a version, you now see each reason (such as a missing price) instead of "please check associated errors", and no empty draft submission is left behind. Before you submit, the checklist also asks for the category, content rights, price and countries.</li>
+  <li><b>A first App Store release from start to finish.</b> Agents can set the content rights, categories and the version number, make the app available in every country, and answer the age rating before the app has a price. A new language pushes cleanly, and the App Review contact needs its phone number from the start.</li>
+  <li><b>Smoother for agents.</b> Prices come as a short list instead of 800 price points, screenshots upload side by side, internal TestFlight groups check that a tester is on your team, and a Google Play draft release says what is left to do in Play Console. Product updates keep their survey notes, refuse links Shipdeck doesn't keep, and point out folders that moved since the survey.</li>
+</ul>
+</div>
 <div data-sparkle-version="58">
 <h2>Shipdeck 0.9.0</h2>
 <ul>
@@ -269,7 +279,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.0/Shipdeck-0.9.0.zip" length="27571230" type="application/octet-stream" sparkle:edSignature="kHMsj+AVLv657HsU+a4uy0ELOq2zEtMxnvrq1qUCQNh/mBEVmnc/So8YVdTR+d+bL96SxcSP5eSrtZuI1JtYBg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.1/Shipdeck-0.9.1.zip" length="27766244" type="application/octet-stream" sparkle:edSignature="+Faw6pHPk/XT/QteBUb+hNpr8tBNQe9sy4/ntCt7gRM9h9bK+h3DDMp+1efzeAg9+pYgzAk41CVEwZqWiZ0xAg=="/>
         </item>
     </channel>
 </rss>
