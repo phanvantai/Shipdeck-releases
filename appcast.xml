@@ -3,6 +3,20 @@
     <channel>
         <title>Shipdeck</title>
         <item>
+            <title>0.9.3</title>
+            <pubDate>Mon, 02 Nov 2026 21:46:00 +0700</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Shipdeck 0.9.3 beta (63)</h2><ul>
+<li>Browser: bring a parked page back when the window shows again</li>
+<li>Read the app's categories where submitting checks them, and resubmit rejected versions</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.3-beta.63/Shipdeck-0.9.3.zip" length="27802695" type="application/octet-stream" sparkle:edSignature="G33P76giLk1QIqJegkCC2EGT9UOcCf1Et5IbOvfkT4Fy0o7tAvJHvWxhMkt7OCAvR9MoFzxnP+w6anaalvKHAg=="/>
+        </item>
+        <item>
             <title>0.9.2</title>
             <pubDate>Mon, 02 Nov 2026 07:28:34 +0700</pubDate>
             <sparkle:version>62</sparkle:version>
