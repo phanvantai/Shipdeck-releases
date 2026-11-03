@@ -4,18 +4,19 @@
         <title>Shipdeck</title>
         <item>
             <title>0.9.3</title>
-            <pubDate>Tue, 03 Nov 2026 08:08:52 +0700</pubDate>
+            <pubDate>Tue, 03 Nov 2026 14:13:50 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>64</sparkle:version>
+            <sparkle:version>65</sparkle:version>
             <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.9.3 beta (64)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.9.3 beta (65)</h2><ul>
+<li>Marketing: Reddit job templates, browser.read caps its controls</li>
 <li>Browser: pin the page to the sidebar so WebKit's view isn't 0×0</li>
 <li>Browser: bring a parked page back when the window shows again</li>
 <li>Read the app's categories where submitting checks them, and resubmit rejected versions</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.3-beta.64/Shipdeck-0.9.3.zip" length="27802870" type="application/octet-stream" sparkle:edSignature="LDKpB5TQPJMs5GWKYRKkGyrRQHzkkyxhAd6pqlhA6/gGybXhLFWOxAcSf+w7p6fRD0lJPBnHYKO7enizELnUBA=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.3-beta.65/Shipdeck-0.9.3.zip" length="27812129" type="application/octet-stream" sparkle:edSignature="AgAd+q4L8rD/gM+AESftndZxOVY8QSGA84cdSPv8ubOH8Wt16WrbQqCU2juMHm1Ctm+CmLM4ZoNNJ1jsP5PXBw=="/>
         </item>
         <item>
             <title>0.9.2</title>
