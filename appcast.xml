@@ -4,12 +4,15 @@
         <title>Shipdeck</title>
         <item>
             <title>0.9.3</title>
-            <pubDate>Mon, 09 Nov 2026 20:27:38 +0700</pubDate>
+            <pubDate>Mon, 09 Nov 2026 23:00:54 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>68</sparkle:version>
+            <sparkle:version>69</sparkle:version>
             <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.9.3 beta (68)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.9.3 beta (69)</h2><ul>
+<li>Release builds without coverage instrumentation</li>
+<li>Browser: tools for agents testing a site under development</li>
+<li>Browser: a new blank tab puts the cursor in the address bar</li>
 <li>Agent browser gaps: hidden tabs draw, dialogs first, viewport, downloads, stable refs</li>
 <li>Google Play: link games one at a time, create missing apps in Play Console</li>
 <li>Agent tool gaps from a day of store forms: browser, approvals, App Store, Play</li>
@@ -20,7 +23,7 @@
 <li>Read the app's categories where submitting checks them, and resubmit rejected versions</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.3-beta.68/Shipdeck-0.9.3.zip" length="28321182" type="application/octet-stream" sparkle:edSignature="BZSkZ0OQnsuYH+MaQQdXvq8mX2Os+bP8pk6mKsGCle/rHjB2LI8T0Wd4H+faMuNdPy2aViLy4zxjZeBOsOKQCQ=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.3-beta.69/Shipdeck-0.9.3.zip" length="24539895" type="application/octet-stream" sparkle:edSignature="r9q4VNnibg4vc7c/dCHd3foSuKPpWHnxbv17bVOkQZpJ+uxIBd79Hj9OgyxvCH/6J9kAJ6mcyxe7mhMJLTyaBA=="/>
         </item>
         <item>
             <title>0.9.2</title>
