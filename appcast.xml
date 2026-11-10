@@ -4,12 +4,14 @@
         <title>Shipdeck</title>
         <item>
             <title>0.9.3</title>
-            <pubDate>Mon, 09 Nov 2026 23:00:54 +0700</pubDate>
+            <pubDate>Tue, 10 Nov 2026 09:25:09 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>69</sparkle:version>
+            <sparkle:version>70</sparkle:version>
             <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.9.3 beta (69)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.9.3 beta (70)</h2><ul>
+<li>Browser: a 1 px ad bait keeps its size in the sidebar (AdMob's ad blocker notice)</li>
+<li>Browser: every page at the desktop layout, drawn with WebKit's view scale</li>
 <li>Release builds without coverage instrumentation</li>
 <li>Browser: tools for agents testing a site under development</li>
 <li>Browser: a new blank tab puts the cursor in the address bar</li>
@@ -23,7 +25,7 @@
 <li>Read the app's categories where submitting checks them, and resubmit rejected versions</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.3-beta.69/Shipdeck-0.9.3.zip" length="24539895" type="application/octet-stream" sparkle:edSignature="r9q4VNnibg4vc7c/dCHd3foSuKPpWHnxbv17bVOkQZpJ+uxIBd79Hj9OgyxvCH/6J9kAJ6mcyxe7mhMJLTyaBA=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.3-beta.70/Shipdeck-0.9.3.zip" length="24551901" type="application/octet-stream" sparkle:edSignature="pla2LUqThH/4hqTjz4tvhVN4+xNykCri6zAPLpB6G1ubK44L6kbAD42JkIaRc+nSrtaizo1kD8FBQJpMvAQcCg=="/>
         </item>
         <item>
             <title>0.9.2</title>
