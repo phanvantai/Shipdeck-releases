@@ -4,16 +4,17 @@
         <title>Shipdeck</title>
         <item>
             <title>0.9.4</title>
-            <pubDate>Tue, 10 Nov 2026 20:44:47 +0700</pubDate>
+            <pubDate>Wed, 11 Nov 2026 09:35:54 +0700</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>72</sparkle:version>
+            <sparkle:version>73</sparkle:version>
             <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.9.4 beta (72)</h2><ul>
+            <description><![CDATA[<h2>Shipdeck 0.9.4 beta (73)</h2><ul>
+<li>Claude Command applies to surveys, Sync, jobs and the connection setup</li>
 <li>App Store: flag builds stuck in Processing, ratings in every country</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.4-beta.72/Shipdeck-0.9.4.zip" length="24636510" type="application/octet-stream" sparkle:edSignature="N/x2ilvyE9HuqfLkE1eP9fNQkEiFxZSj+SMv3sPYnWm1M5Tbh0e21l0NUYTgrweykUjXcmgA1yNrKbzFSyTyBw=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.4-beta.73/Shipdeck-0.9.4.zip" length="24661566" type="application/octet-stream" sparkle:edSignature="ePst4hMBxu4rLl4cmE/33WV96IxrOJR1x6mhGt/0tviSlIUPBglSD+yNKT6WV5OoYyYzO8aBOnGJCXokwktUAA=="/>
         </item>
         <item>
             <title>0.9.3</title>
