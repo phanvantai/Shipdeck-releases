@@ -4,25 +4,21 @@
         <title>Shipdeck</title>
         <item>
             <title>0.9.4</title>
-            <pubDate>Wed, 11 Nov 2026 09:35:54 +0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>73</sparkle:version>
+            <pubDate>Fri, 13 Nov 2026 04:09:59 +0700</pubDate>
+            <sparkle:version>74</sparkle:version>
             <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.9.4 beta (73)</h2><ul>
-<li>Claude Command applies to surveys, Sync, jobs and the connection setup</li>
-<li>App Store: flag builds stuck in Processing, ratings in every country</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.4-beta.73/Shipdeck-0.9.4.zip" length="24661566" type="application/octet-stream" sparkle:edSignature="ePst4hMBxu4rLl4cmE/33WV96IxrOJR1x6mhGt/0tviSlIUPBglSD+yNKT6WV5OoYyYzO8aBOnGJCXokwktUAA=="/>
-        </item>
-        <item>
-            <title>0.9.3</title>
-            <pubDate>Tue, 10 Nov 2026 13:32:48 +0700</pubDate>
-            <sparkle:version>71</sparkle:version>
-            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="74">
+<h2>Shipdeck 0.9.4</h2>
+<ul>
+  <li><b>Marketing on any site.</b> Channels are no longer only subreddits: add your YouTube channel, Instagram, Facebook, Threads, TikTok or X account, or a group someone else runs. Each post shows its views beside its score.</li>
+  <li><b>Every post is read back.</b> After Claude posts, Shipdeck opens the post and compares it with the draft you approved. Lines that are missing wait for you in Needs You, with Open Post, Check Again and It's Fine.</li>
+  <li><b>Claude posts and comments more reliably.</b> In the browser a session can wait for a page to finish, read a feed post by post, and send up to 20 comments in one approval, each shown under its post. It can also upload files from another of your products, which you are shown by name. Return in a comment box no longer sends without you.</li>
+  <li><b>Your Claude Command everywhere.</b> The Claude Command in Settings › General (an alias for another Claude account, such as claude-work) now also runs adding a product, Sync with Code and background jobs, and the Claude Code line for connecting an AI tool uses it.</li>
+  <li><b>App Store.</b> A build in Processing for over an hour shows up as needing attention (Apple sends no email for it), and the Reviews page shows star ratings in every country.</li>
+</ul>
+</div>
 <div data-sparkle-version="71">
 <h2>Shipdeck 0.9.3</h2>
 <ul>
@@ -312,7 +308,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.3/Shipdeck-0.9.3.zip" length="24552808" type="application/octet-stream" sparkle:edSignature="JvmeuwVZdjAQiwcsK5ZgwSgViss874zK2fT/hR0Rxa6Qs/WL+0/XlhP+86Ow8GPL0dLLAxSc/Y61q0W0NqKbBA=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.4/Shipdeck-0.9.4.zip" length="24913679" type="application/octet-stream" sparkle:edSignature="tCr2eKFEQHBF6pxD5qdXS8fokqBEynn9mGvJaTGk0B0eVy63sijz5OYx3ifFye3EGkNw2DUWCLvpeLkDPIXJAg=="/>
         </item>
     </channel>
 </rss>
