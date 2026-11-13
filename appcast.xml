@@ -3,6 +3,21 @@
     <channel>
         <title>Shipdeck</title>
         <item>
+            <title>0.9.5</title>
+            <pubDate>Fri, 13 Nov 2026 11:55:54 +0700</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Shipdeck 0.9.5 beta (75)</h2><ul>
+<li>Windows and Linux edition: no recorder on outside sites, the engine's own user agent, the file chooser guard</li>
+<li>Browser: one file chooser for a click on a file field its button clicks again</li>
+<li>Browser: popups are tabs with window.opener, the recorder stays on sites under development, Safari's user agent</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.5-beta.75/Shipdeck-0.9.5.zip" length="24943856" type="application/octet-stream" sparkle:edSignature="ZvZxoUjLUBJrLf4j5TS2ehZ9sB0+6efGwAww89EZL0Ifjr1isszxwiicT32FWVGeLKkltygfm3bEBhXEIYiUDg=="/>
+        </item>
+        <item>
             <title>0.9.4</title>
             <pubDate>Fri, 13 Nov 2026 04:09:59 +0700</pubDate>
             <sparkle:version>74</sparkle:version>
