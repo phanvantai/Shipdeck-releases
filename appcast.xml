@@ -4,26 +4,19 @@
         <title>Shipdeck</title>
         <item>
             <title>0.9.5</title>
-            <pubDate>Fri, 13 Nov 2026 11:55:54 +0700</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>75</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 23:13:29 +0700</pubDate>
+            <sparkle:version>76</sparkle:version>
             <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Shipdeck 0.9.5 beta (75)</h2><ul>
-<li>Windows and Linux edition: no recorder on outside sites, the engine's own user agent, the file chooser guard</li>
-<li>Browser: one file chooser for a click on a file field its button clicks again</li>
-<li>Browser: popups are tabs with window.opener, the recorder stays on sites under development, Safari's user agent</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.5-beta.75/Shipdeck-0.9.5.zip" length="24943856" type="application/octet-stream" sparkle:edSignature="ZvZxoUjLUBJrLf4j5TS2ehZ9sB0+6efGwAww89EZL0Ifjr1isszxwiicT32FWVGeLKkltygfm3bEBhXEIYiUDg=="/>
-        </item>
-        <item>
-            <title>0.9.4</title>
-            <pubDate>Fri, 13 Nov 2026 04:09:59 +0700</pubDate>
-            <sparkle:version>74</sparkle:version>
-            <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>.sparkle-installed-version, .sparkle-installed-version ~ div { display: none; }</style>
+<div data-sparkle-version="76">
+<h2>Shipdeck 0.9.5</h2>
+<ul>
+  <li><b>Muse Code sessions.</b> Besides Claude and a shell, a New Tab can start Meta's Muse Code at the product root, with Shipdeck's tools connected and the sidebar showing when it works, waits for you or is ready. It is offered where <code>muse</code> is installed; Settings › General › Muse Command takes an alias or a path. Nothing is written into your repo or into Muse's own settings.</li>
+  <li><b>Pick up Muse conversations.</b> Muse conversations are listed beside Claude's in Recent Conversations, and each one resumes with its own agent. Agents that read <code>session.history</code> see which agent holds each conversation.</li>
+  <li>Surveys, Sync with Code and background jobs still run Claude Code only: they must never read your secret files, and Muse Code can't promise that yet.</li>
+</ul>
+</div>
 <div data-sparkle-version="74">
 <h2>Shipdeck 0.9.4</h2>
 <ul>
@@ -323,7 +316,7 @@
 <p>Coming from 0.2.0 or earlier, install this version by hand once: quit Shipdeck, download the zip, and replace the app in Applications. Later versions arrive in the app.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.4/Shipdeck-0.9.4.zip" length="24913679" type="application/octet-stream" sparkle:edSignature="tCr2eKFEQHBF6pxD5qdXS8fokqBEynn9mGvJaTGk0B0eVy63sijz5OYx3ifFye3EGkNw2DUWCLvpeLkDPIXJAg=="/>
+            <enclosure url="https://github.com/phanvantai/Shipdeck-releases/releases/download/v0.9.5/Shipdeck-0.9.5.zip" length="24981297" type="application/octet-stream" sparkle:edSignature="+sNm7qW6z1E3PZvGB/4pBNQZhy0NmjvYCRdsGi7JBwWxzfV9lKLWAl8WYQZ0o9K0ntaRq1iVVsX4JFn7iPvJDg=="/>
         </item>
     </channel>
 </rss>
